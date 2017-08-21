@@ -1,3 +1,9 @@
+/*Sorry I couldn't complete the project in the time I was given.
+However I was on holiday for 2 weeks and could not do coding while
+away. I understand that you can only mark what is there but please
+note it is not up to my usual standards.
+Thanks*/
+
 /*Best veiwed at a width of 997px*/
 
 body {
@@ -109,9 +115,13 @@ header #grey {
   background-color: grey;
 }
 
-/*Main Section*/
+/*Academy Information*/
 
 #academy_info {
+  height: 33px;
+  width: 60%;
+  display: inline;
+  margin-top: 32px;
 }
 
 #ai_main_link {
@@ -155,4 +165,21 @@ header #grey {
 
 #ai_secondary_links_dark {
   background-color: #d8d8d8;
+}
+
+#academy_info_2 {
+  margin-top: ;
+}
+
+#academy_info img {
+  display: inline;
+}
+
+.ai_secondary_links span,h3 {
+  width: 55%;
+  float: right;
+  display: flex;
+  align-items: center;
+  align-content: center;
+  flex-direction: column;
 }
